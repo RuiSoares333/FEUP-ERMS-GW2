@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  28 NOV 2024 18:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  28 NOV 2024 18:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -352,6 +352,36 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 247.
 
 
+helix-rm_report.tex:282: Undefined control sequence.
+l.282 ...eviews and Alternatives." Available: \url
+                                                  {https://www.getapp.com}. ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+helix-rm_report.tex:284: Undefined control sequence.
+l.284 ...nts Management Features." Available: \url
+                                                  {https://a2is.com/catalog/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 7415) in paragraph at lines 284--285
+[]\OT1/ptm/m/n/8 A2IS, "He-lix RM Re-quire-ments Man-age-ment Fea-tures." Avail
+-
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 284--285
+\OT1/ptm/m/n/8 able: https://a2is.com/catalog/requirements-management-software/
+helix-
+ []
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -396,7 +426,7 @@ pData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Simão/
 AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Simão
 /AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 Output written on C:/Users\Simão\Desktop\mestrado\ER\P\FEUP-ERMS-GW2\helix-rm_
-report.pdf (3 pages, 144020 bytes).
+report.pdf (3 pages, 143097 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
