@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  28 NOV 2024 18:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  29 NOV 2024 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -322,6 +322,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 45.
 
+Underfull \hbox (badness 3260) in paragraph at lines 59--60
+[]\OT1/ptm/m/n/10 Requirements man-age-ment is es-sen-tial for suc-cess-ful
+ []
+
+
 
 
 
@@ -331,7 +336,7 @@ imão/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-37.
+39.
 
 (C:\Users\Simão\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -341,19 +346,43 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 
 [2]
 
-LaTeX Warning: Reference `fig' on page 3 undefined on input line 222.
+LaTeX Warning: Citation `b7' on page 3 undefined on input line 188.
+
+
+LaTeX Warning: Reference `fig' on page 3 undefined on input line 224.
 
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-47.
+49.
 (C:\Users\Simão\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 247.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 249.
 
 
-helix-rm_report.tex:282: Undefined control sequence.
-l.282 ...eviews and Alternatives." Available: \url
+
+LaTeX Warning: Citation `b3' on page 3 undefined on input line 264.
+
+
+LaTeX Warning: Citation `b3' on page 3 undefined on input line 264.
+
+
+LaTeX Warning: Citation `b3' on page 3 undefined on input line 264.
+
+
+LaTeX Warning: Citation `b3' on page 3 undefined on input line 265.
+
+
+LaTeX Warning: Citation `b4' on page 3 undefined on input line 273.
+
+
+LaTeX Warning: Citation `b5' on page 3 undefined on input line 274.
+
+
+LaTeX Warning: Citation `b6' on page 3 undefined on input line 279.
+
+helix-rm_report.tex:284: Undefined control sequence.
+l.284 ...eviews and Alternatives." Available: \url
                                                   {https://www.getapp.com}. ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -361,8 +390,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-helix-rm_report.tex:284: Undefined control sequence.
-l.284 ...nts Management Features." Available: \url
+helix-rm_report.tex:286: Undefined control sequence.
+l.286 ...nts Management Features." Available: \url
                                                   {https://a2is.com/catalog/...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -371,13 +400,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 7415) in paragraph at lines 284--285
+Underfull \hbox (badness 7415) in paragraph at lines 286--287
 []\OT1/ptm/m/n/8 A2IS, "He-lix RM Re-quire-ments Man-age-ment Fea-tures." Avail
 -
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 284--285
+Underfull \hbox (badness 5431) in paragraph at lines 286--287
 \OT1/ptm/m/n/8 able: https://a2is.com/catalog/requirements-management-software/
 helix-
  []
@@ -408,11 +437,11 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  4294 strings out of 473682
  68009 string characters out of 5718739
- 475724 words of memory out of 5000000
+ 474709 words of memory out of 5000000
  27325 multiletter control sequences out of 15000+600000
  609174 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,592b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,601b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Simão/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmmi10.pfb><C:/Users/Simão/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr10.pfb><C:/Users/Simão/AppData/Local/Programs/MiKTeX/fonts/type1
@@ -426,7 +455,7 @@ pData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Simão/
 AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Simão
 /AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 Output written on C:/Users\Simão\Desktop\mestrado\ER\P\FEUP-ERMS-GW2\helix-rm_
-report.pdf (3 pages, 143097 bytes).
+report.pdf (3 pages, 143710 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
