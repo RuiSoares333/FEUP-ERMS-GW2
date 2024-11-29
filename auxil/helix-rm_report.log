@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  29 NOV 2024 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  29 NOV 2024 14:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -264,7 +264,8 @@ ex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box56
-) (helix-rm_report.aux)
+)
+No file helix-rm_report.aux.
 \openout1 = `helix-rm_report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -281,7 +282,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-
 -- Lines per column: 56 (exact).
 
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
@@ -308,30 +308,39 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (chapters/authors.tex)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+)) (chapters/authors.tex) (chapters/track-requirements.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
 
 
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 
 
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(chapters/track-requirements.tex
+
+LaTeX Warning: Citation `j_e__archer_2003' on page 1 undefined on input line 16
+.
+
+
+LaTeX Warning: Citation `b2' on page 1 undefined on input line 17.
+
 
 LaTeX Warning: Citation `b3' on page 1 undefined on input line 22.
+
+
+
+
+LaTeX Warning: Citation `b2' on page 1 undefined on input line 23.
 
 
 LaTeX Warning: Citation `b4' on page 1 undefined on input line 28.
 
 
 LaTeX Warning: Citation `b3' on page 1 undefined on input line 29.
-
-
 
 ) (chapters/decompose-requirements.tex
 
@@ -341,83 +350,79 @@ S/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 ])
 
+LaTeX Warning: Reference `AA' on page 2 undefined on input line 52.
+
+
+LaTeX Warning: Reference `SCM' on page 2 undefined on input line 52.
+
+
+
+
+LaTeX Warning: Reference `eq' on page 2 undefined on input line 86.
+
+
+LaTeX Warning: Reference `eq' on page 2 undefined on input line 86.
+
+
+LaTeX Warning: Reference `eq' on page 2 undefined on input line 86.
+
+
+LaTeX Warning: Reference `eq' on page 2 undefined on input line 87.
+
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
-4.
+1.
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
 [2]
 
-LaTeX Warning: Citation `b7' on page 3 undefined on input line 143.
+LaTeX Warning: Citation `b7' on page 3 undefined on input line 140.
 
 
 
 
-LaTeX Warning: Reference `fig' on page 3 undefined on input line 179.
+LaTeX Warning: Reference `fig' on page 3 undefined on input line 176.
 
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-04.
+01.
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 204.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 201.
 
 
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 219.
+LaTeX Warning: Citation `b1' on page 3 undefined on input line 214.
 
 
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 219.
+LaTeX Warning: Citation `b2' on page 3 undefined on input line 215.
 
 
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 219.
+LaTeX Warning: Citation `b3' on page 3 undefined on input line 216.
 
 
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 220.
+LaTeX Warning: Citation `b3' on page 3 undefined on input line 216.
 
 
-LaTeX Warning: Citation `b4' on page 3 undefined on input line 228.
+LaTeX Warning: Citation `b3' on page 3 undefined on input line 216.
 
 
-LaTeX Warning: Citation `b5' on page 3 undefined on input line 229.
+LaTeX Warning: Citation `b3' on page 3 undefined on input line 217.
 
 
-LaTeX Warning: Citation `b6' on page 3 undefined on input line 234.
-
-(chapters/references.tex
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
-[]\OT1/ptm/m/n/8 Evangelos, Markopou-los., Geor-gios, Alex-opou-los., Nikolitsa
-,
- []
 
-chapters/references.tex:25: Undefined control sequence.
-l.25     Available: \url
-                        {https://www.getapp.com}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-chapters/references.tex:31: Undefined control sequence.
-l.31     Available: \url
-                        {https://a2is.com/catalog/requirements-management-so...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation `b4' on page 4 undefined on input line 225.
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 29--33
-[]\OT1/ptm/m/n/8 A2IS, "He-lix RM Re-quire-ments Man-age-ment Fea-tures." Avail
--
- []
+LaTeX Warning: Citation `b5' on page 4 undefined on input line 226.
 
-)
+
+LaTeX Warning: Citation `b6' on page 4 undefined on input line 231.
+
+No file helix-rm_report.bbl.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -435,7 +440,9 @@ Before submitting the final camera ready copy, remember to:
 
 [4
 
-] (helix-rm_report.aux)
+]
+(C:/Users\ASUS\OneDrive - Universidade do Porto\Ambiente de Trabalho\Rui\FACULD
+ADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\auxil\helix-rm_report.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
@@ -444,15 +451,18 @@ L3 programming layer <2024-11-02>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 4306 strings out of 473681
- 69680 string characters out of 5719670
- 475709 words of memory out of 5000000
- 27324 multiletter control sequences out of 15000+600000
- 604754 words of font info for 123 fonts, out of 8000000 for 9000
+ 4282 strings out of 473681
+ 69158 string characters out of 5719670
+ 475597 words of memory out of 5000000
+ 27311 multiletter control sequences out of 15000+600000
+ 599998 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,592b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,613b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/publi
@@ -467,7 +477,7 @@ ms/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 Output written on "C:/Users\ASUS\OneDrive - Universidade do Porto\Ambiente de T
 rabalho\Rui\FACULDADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\out\helix-rm_report.pdf" (4 
-pages, 146045 bytes).
+pages, 144640 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
