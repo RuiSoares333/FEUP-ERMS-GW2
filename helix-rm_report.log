@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  29 NOV 2024 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  29 NOV 2024 12:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -309,24 +309,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Users\Simão\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
 cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (chapters/authors.tex)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+)) (chapters/authors.tex) (chapters/track-requirements.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
 
 
 (C:\Users\Simão\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 
 
 (C:\Users\Simão\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 3260) in paragraph at lines 34--35
-[]\OT1/ptm/m/n/10 Requirements man-age-ment is es-sen-tial for suc-cess-ful
- []
-
-(chapters/track-requirements.tex
 
 ) (chapters/decompose-requirements.tex
 
@@ -337,27 +332,27 @@ imão/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 ])
 
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
-4.
+1.
 (C:\Users\Simão\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
 [2]
 
-LaTeX Warning: Citation `b7' on page 3 undefined on input line 143.
+LaTeX Warning: Citation `b7' on page 3 undefined on input line 140.
 
 
 
 
-LaTeX Warning: Reference `fig' on page 3 undefined on input line 179.
+LaTeX Warning: Reference `fig' on page 3 undefined on input line 176.
 
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-04.
+01.
 (C:\Users\Simão\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 204.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 201.
 
 
 [3] (chapters/references.tex
@@ -419,13 +414,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4303 strings out of 473682
- 68897 string characters out of 5718739
+ 4291 strings out of 473682
+ 68782 string characters out of 5718739
  475721 words of memory out of 5000000
- 27322 multiletter control sequences out of 15000+600000
- 603169 words of font info for 121 fonts, out of 8000000 for 9000
+ 27315 multiletter control sequences out of 15000+600000
+ 599998 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,592b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,613b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Simão/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmmi10.pfb><C:/Users/Simão/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr10.pfb><C:/Users/Simão/AppData/Local/Programs/MiKTeX/fonts/type1
@@ -439,7 +434,7 @@ pData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Simão/
 AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Simão
 /AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 Output written on C:/Users\Simão\Desktop\mestrado\ER\P\FEUP-ERMS-GW2\helix-rm_
-report.pdf (4 pages, 146061 bytes).
+report.pdf (4 pages, 145106 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
