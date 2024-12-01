@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  29 NOV 2024 14:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  1 DEC 2024 02:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,7 +265,8 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box56
 )
-No file helix-rm_report.aux.
+(C:/Users\ASUS\OneDrive - Universidade do Porto\Ambiente de Trabalho\Rui\FACULD
+ADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\auxil\helix-rm_report.aux)
 \openout1 = `helix-rm_report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -282,6 +283,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+
 -- Lines per column: 56 (exact).
 
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
@@ -309,118 +311,138 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) (chapters/authors.tex) (chapters/track-requirements.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
 
+LaTeX Warning: Citation `j_e__archer_2003' on page 1 undefined on input line 14
+.
+
+
+LaTeX Warning: Citation `evangelos_markopoulos__2009' on page 1 undefined on in
+put line 15.
+
+
+LaTeX Warning: Citation `maria_grazia_violante__2017' on page 1 undefined on in
+put line 19.
+
+
+LaTeX Warning: Citation `evangelos_markopoulos__2009' on page 1 undefined on in
+put line 20.
+
+
+LaTeX Warning: Citation `edward_r__rang__1985' on page 1 undefined on input lin
+e 23.
+
+
+LaTeX Warning: Citation `maria_grazia_violante__2017' on page 1 undefined on in
+put line 24.
+
+
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
 
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
 
 
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Warning: Citation `j_e__archer_2003' on page 1 undefined on input line 16
+<images/requirement-tracking.png, id=1, 785.93625pt x 412.54124pt>
+File: images/requirement-tracking.png Graphic file (type png)
+<use images/requirement-tracking.png>
+Package pdftex.def Info: images/requirement-tracking.png  used on input line 48
 .
-
-
-LaTeX Warning: Citation `b2' on page 1 undefined on input line 17.
-
-
-LaTeX Warning: Citation `b3' on page 1 undefined on input line 22.
-
-
-
-
-LaTeX Warning: Citation `b2' on page 1 undefined on input line 23.
-
-
-LaTeX Warning: Citation `b4' on page 1 undefined on input line 28.
-
-
-LaTeX Warning: Citation `b3' on page 1 undefined on input line 29.
-
-) (chapters/decompose-requirements.tex
+(pdftex.def)             Requested size: 252.0pt x 132.27399pt.
+)
+(chapters/decompose-requirements.tex
 
 [1{C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ASU
 S/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
-])
+ <./images/requirement-tracking.png>]) (chapters/advantages.tex
 
-LaTeX Warning: Reference `AA' on page 2 undefined on input line 52.
-
-
-LaTeX Warning: Reference `SCM' on page 2 undefined on input line 52.
+LaTeX Warning: Citation `michele_zamparelli_2006' on page 2 undefined on input 
+line 9.
 
 
 
 
-LaTeX Warning: Reference `eq' on page 2 undefined on input line 86.
+LaTeX Warning: Citation `youngki_hong__2010' on page 2 undefined on input line 
+33.
 
 
-LaTeX Warning: Reference `eq' on page 2 undefined on input line 86.
+LaTeX Warning: Citation `bright_ascention_2024' on page 2 undefined on input li
+ne 36.
 
 
-LaTeX Warning: Reference `eq' on page 2 undefined on input line 86.
+LaTeX Warning: Citation `helix_alm_review' on page 2 undefined on input line 37
+.
+
+) (chapters/limitations.tex
+
+LaTeX Warning: Citation `lydia_y__chen_2019' on page 2 undefined on input line 
+7.
 
 
-LaTeX Warning: Reference `eq' on page 2 undefined on input line 87.
+LaTeX Warning: Citation `the_submission_infrastructure' on page 2 undefined on 
+input line 10.
 
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
-1.
-(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+
+LaTeX Warning: Citation `christian_glaschke__2015' on page 2 undefined on input
+ line 14.
+
 )
 
 [2]
-
-LaTeX Warning: Citation `b7' on page 3 undefined on input line 140.
-
-
-
-
-LaTeX Warning: Reference `fig' on page 3 undefined on input line 176.
-
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-01.
-(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsptm.fd
-File: omsptm.fd 
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
+7.
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 201.
 
 
-LaTeX Warning: Citation `b1' on page 3 undefined on input line 214.
-
-
-LaTeX Warning: Citation `b2' on page 3 undefined on input line 215.
-
-
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 216.
-
-
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 216.
-
-
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 216.
-
-
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 217.
+LaTeX Warning: Citation `b7' on page 3 undefined on input line 146.
 
 
 
 [3]
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
+07.
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 207.
 
-LaTeX Warning: Citation `b4' on page 4 undefined on input line 225.
 
 
-LaTeX Warning: Citation `b5' on page 4 undefined on input line 226.
+LaTeX Warning: Citation `b1' on page 4 undefined on input line 220.
 
 
-LaTeX Warning: Citation `b6' on page 4 undefined on input line 231.
+LaTeX Warning: Citation `b2' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Citation `b3' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `b3' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `b3' on page 4 undefined on input line 222.
+
+
+LaTeX Warning: Citation `b3' on page 4 undefined on input line 223.
+
+
+LaTeX Warning: Citation `b4' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `b5' on page 4 undefined on input line 232.
+
+
+LaTeX Warning: Citation `b6' on page 4 undefined on input line 237.
 
 No file helix-rm_report.bbl.
 
@@ -436,11 +458,7 @@ Before submitting the final camera ready copy, remember to:
 
 
 
-
-
-[4
-
-]
+[4]
 (C:/Users\ASUS\OneDrive - Universidade do Porto\Ambiente de Trabalho\Rui\FACULD
 ADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\auxil\helix-rm_report.aux)
  ***********
@@ -451,16 +469,13 @@ L3 programming layer <2024-11-02>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 4282 strings out of 473681
- 69158 string characters out of 5719670
- 475597 words of memory out of 5000000
- 27311 multiletter control sequences out of 15000+600000
- 599998 words of font info for 113 fonts, out of 8000000 for 9000
+ 4326 strings out of 473681
+ 70841 string characters out of 5719670
+ 475721 words of memory out of 5000000
+ 27346 multiletter control sequences out of 15000+600000
+ 601583 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,65p,613b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
@@ -477,9 +492,9 @@ ms/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 Output written on "C:/Users\ASUS\OneDrive - Universidade do Porto\Ambiente de T
 rabalho\Rui\FACULDADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\out\helix-rm_report.pdf" (4 
-pages, 144640 bytes).
+pages, 222240 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
