@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  1 DEC 2024 02:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  2 DEC 2024 13:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,47 +355,86 @@ Package pdftex.def Info: images/requirement-tracking.png  used on input line 48
 .
 (pdftex.def)             Requested size: 252.0pt x 132.27399pt.
 )
-(chapters/decompose-requirements.tex
+(chapters/review-requirements.tex
+
+LaTeX Warning: Citation `perforce_2024' on page 1 undefined on input line 12.
+
+
 
 [1{C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ASU
 S/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
- <./images/requirement-tracking.png>]) (chapters/advantages.tex
+ <./images/requirement-tracking.png>]
+<images/review-mode-view.png, id=13, 847.165pt x 338.26375pt>
+File: images/review-mode-view.png Graphic file (type png)
+<use images/review-mode-view.png>
+Package pdftex.def Info: images/review-mode-view.png  used on input line 17.
+(pdftex.def)             Requested size: 252.0pt x 100.61794pt.
 
-LaTeX Warning: Citation `michele_zamparelli_2006' on page 2 undefined on input 
+
+LaTeX Warning: Citation `perforce_2024' on page 2 undefined on input line 31.
+
+<images/review-notes.png, id=14, 834.11626pt x 362.35374pt>
+File: images/review-notes.png Graphic file (type png)
+<use images/review-notes.png>
+Package pdftex.def Info: images/review-notes.png  used on input line 36.
+(pdftex.def)             Requested size: 252.0pt x 109.46997pt.
+
+LaTeX Warning: Citation `perforce_2024' on page 2 undefined on input line 47.
+
+<images/email-feedback.png, id=15, 1008.76875pt x 412.54124pt>
+File: images/email-feedback.png Graphic file (type png)
+<use images/email-feedback.png>
+Package pdftex.def Info: images/email-feedback.png  used on input line 51.
+(pdftex.def)             Requested size: 252.0pt x 103.05322pt.
+
+LaTeX Warning: Citation `perforce_2024' on page 2 undefined on input line 63.
+
+<images/edit-requirements.png, id=16, 930.47626pt x 326.21875pt>
+File: images/edit-requirements.png Graphic file (type png)
+<use images/edit-requirements.png>
+Package pdftex.def Info: images/edit-requirements.png  used on input line 67.
+(pdftex.def)             Requested size: 252.0pt x 88.34903pt.
+) (chapters/decompose-requirements.tex
+
+
+
+[2 <./images/review-mode-view.png> <./images/review-notes.png> <./images/email-
+feedback.png> <./images/edit-requirements.png>]) (chapters/advantages.tex
+
+LaTeX Warning: Citation `michele_zamparelli_2006' on page 3 undefined on input 
 line 9.
 
 
-
-
-LaTeX Warning: Citation `youngki_hong__2010' on page 2 undefined on input line 
+LaTeX Warning: Citation `youngki_hong__2010' on page 3 undefined on input line 
 33.
 
 
-LaTeX Warning: Citation `bright_ascention_2024' on page 2 undefined on input li
+LaTeX Warning: Citation `bright_ascention_2024' on page 3 undefined on input li
 ne 36.
 
 
-LaTeX Warning: Citation `helix_alm_review' on page 2 undefined on input line 37
+LaTeX Warning: Citation `helix_alm_review' on page 3 undefined on input line 37
 .
 
 ) (chapters/limitations.tex
 
-LaTeX Warning: Citation `lydia_y__chen_2019' on page 2 undefined on input line 
+
+LaTeX Warning: Citation `lydia_y__chen_2019' on page 3 undefined on input line 
 7.
 
 
-LaTeX Warning: Citation `the_submission_infrastructure' on page 2 undefined on 
+LaTeX Warning: Citation `the_submission_infrastructure' on page 3 undefined on 
 input line 10.
 
 
-LaTeX Warning: Citation `christian_glaschke__2015' on page 2 undefined on input
+LaTeX Warning: Citation `christian_glaschke__2015' on page 3 undefined on input
  line 14.
 
 )
 
-[2]
+[3]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
 7.
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
@@ -403,11 +442,11 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
 
-LaTeX Warning: Citation `b7' on page 3 undefined on input line 146.
+LaTeX Warning: Citation `b7' on page 4 undefined on input line 146.
 
 
 
-[3]
+[4]
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
 07.
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsptm.fd
@@ -417,34 +456,35 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 207.
 
 
-
-LaTeX Warning: Citation `b1' on page 4 undefined on input line 220.
-
-
-LaTeX Warning: Citation `b2' on page 4 undefined on input line 221.
+LaTeX Warning: Citation `b1' on page 5 undefined on input line 220.
 
 
-LaTeX Warning: Citation `b3' on page 4 undefined on input line 222.
+LaTeX Warning: Citation `b2' on page 5 undefined on input line 221.
 
 
-LaTeX Warning: Citation `b3' on page 4 undefined on input line 222.
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 222.
 
 
-LaTeX Warning: Citation `b3' on page 4 undefined on input line 222.
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 222.
 
 
-LaTeX Warning: Citation `b3' on page 4 undefined on input line 223.
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 222.
 
 
-LaTeX Warning: Citation `b4' on page 4 undefined on input line 231.
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 223.
 
 
-LaTeX Warning: Citation `b5' on page 4 undefined on input line 232.
+LaTeX Warning: Citation `b4' on page 5 undefined on input line 231.
 
 
-LaTeX Warning: Citation `b6' on page 4 undefined on input line 237.
+LaTeX Warning: Citation `b5' on page 5 undefined on input line 232.
+
+
+LaTeX Warning: Citation `b6' on page 5 undefined on input line 237.
 
 No file helix-rm_report.bbl.
+
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -458,7 +498,7 @@ Before submitting the final camera ready copy, remember to:
 
 
 
-[4]
+[5]
 (C:/Users\ASUS\OneDrive - Universidade do Porto\Ambiente de Trabalho\Rui\FACULD
 ADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\auxil\helix-rm_report.aux)
  ***********
@@ -471,10 +511,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4326 strings out of 473681
- 70841 string characters out of 5719670
- 475721 words of memory out of 5000000
- 27346 multiletter control sequences out of 15000+600000
+ 4383 strings out of 473681
+ 72720 string characters out of 5719670
+ 474809 words of memory out of 5000000
+ 27400 multiletter control sequences out of 15000+600000
  601583 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,65p,613b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -491,10 +531,10 @@ ms/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/ASUS/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 Output written on "C:/Users\ASUS\OneDrive - Universidade do Porto\Ambiente de T
-rabalho\Rui\FACULDADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\out\helix-rm_report.pdf" (4 
-pages, 222240 bytes).
+rabalho\Rui\FACULDADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\out\helix-rm_report.pdf" (5 
+pages, 3384202 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
