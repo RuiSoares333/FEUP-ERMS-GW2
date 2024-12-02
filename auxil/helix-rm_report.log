@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  2 DEC 2024 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  2 DEC 2024 20:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -337,7 +337,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (chapters/authors.tex) (chapters/track-requirements.tex
+)) (chapters/authors.tex) (chapters/abstract.tex) (chapters/introduction.tex)
+(chapters/track-requirements.tex
 
 LaTeX Warning: Citation `j_e__archer_2003' on page 1 undefined on input line 13
 .
@@ -477,38 +478,59 @@ LaTeX Warning: Citation `christian_glaschke__2015' on page 4 undefined on input
  line 13.
 
 ) (chapters/alternative-tools.tex
-Overfull \hbox (223.69995pt too wide) in paragraph at lines 3--15
- [][] 
+Underfull \hbox (badness 3635) in paragraph at lines 8--8
+[]\OT1/ptm/m/n/8 Detailed trace-abil-ity and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\OT1/ptm/m/n/8 Advanced roadmap-ping
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+\OT1/ptm/m/n/8 and idea man-age-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]\OT1/ptm/m/n/8 Jama
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\OT1/ptm/m/n/8 Industry-leading
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/ptm/m/n/8 com-pli-ance and multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]\OT1/ptm/m/n/8 IBM
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 10--11
+\OT1/ptm/m/n/8 and hi-er-ar-chi-cal re-quire-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]\OT1/ptm/m/n/8 Azure
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]\OT1/ptm/m/n/8 Full De-vOps suite for
  []
 
 )
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Citation `b1' on page 4 undefined on input line 68.
-
-
-LaTeX Warning: Citation `b2' on page 4 undefined on input line 69.
-
-
-LaTeX Warning: Citation `b3' on page 4 undefined on input line 70.
-
-
-LaTeX Warning: Citation `b3' on page 4 undefined on input line 70.
-
-
-LaTeX Warning: Citation `b3' on page 4 undefined on input line 70.
-
-
-LaTeX Warning: Citation `b3' on page 4 undefined on input line 71.
-
-
-LaTeX Warning: Citation `b4' on page 4 undefined on input line 81.
-
-
-LaTeX Warning: Citation `b5' on page 4 undefined on input line 82.
-
-
-LaTeX Warning: Citation `b6' on page 4 undefined on input line 87.
 
 No file helix-rm_report.bbl.
 
@@ -537,25 +559,24 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4507 strings out of 473681
- 75853 string characters out of 5719670
- 476347 words of memory out of 5000000
- 27517 multiletter control sequences out of 15000+600000
+ 4515 strings out of 473681
+ 76449 string characters out of 5719670
+ 476323 words of memory out of 5000000
+ 27520 multiletter control sequences out of 15000+600000
  598836 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,291b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,291b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmsy7.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/t
-imes/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
-mes/utmbi8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
-mes/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
-es/utmri8a.pfb>
+msy7.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
+b8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb
+i8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr
+8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri
+8a.pfb>
 Output written on "C:/Users\ASUS\OneDrive - Universidade do Porto\Ambiente de T
 rabalho\Rui\FACULDADE\FEUP\MESW\ERMS\FEUP-ERMS-GW2\out\helix-rm_report.pdf" (4 
-pages, 3474917 bytes).
+pages, 3464970 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
