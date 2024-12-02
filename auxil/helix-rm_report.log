@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.11.29)  29 NOV 2024 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.11.29)  2 DEC 2024 15:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,7 +284,9 @@ nd-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box56
-) (helix-rm_report.aux)
+)
+(/Users/nof/Documents/Nuno/Mestrado/ERMS/FEUP-ERMS-GW2/auxil/helix-rm_report.au
+x)
 \openout1 = `helix-rm_report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -328,43 +330,144 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf
 -sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (chapters/authors.tex)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+)) (chapters/authors.tex) (chapters/track-requirements.tex
 
+LaTeX Warning: Citation `j_e__archer_2003' on page 1 undefined on input line 13
+.
+
+
+LaTeX Warning: Citation `evangelos_markopoulos__2009' on page 1 undefined on in
+put line 14.
+
+
+LaTeX Warning: Citation `maria_grazia_violante__2017' on page 1 undefined on in
+put line 18.
+
+
+LaTeX Warning: Citation `evangelos_markopoulos__2009' on page 1 undefined on in
+put line 19.
+
+
+LaTeX Warning: Citation `edward_r__rang__1985' on page 1 undefined on input lin
+e 22.
+
+
+LaTeX Warning: Citation `maria_grazia_violante__2017' on page 1 undefined on in
+put line 23.
+
+
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 3260) in paragraph at lines 34--35
-[]\OT1/ptm/m/n/10 Requirements man-age-ment is es-sen-tial for suc-cess-ful
- []
+<images/requirement-tracking.png, id=1, 785.93625pt x 412.54124pt>
+File: images/requirement-tracking.png Graphic file (type png)
+<use images/requirement-tracking.png>
+Package pdftex.def Info: images/requirement-tracking.png  used on input line 47
+.
+(pdftex.def)             Requested size: 252.0pt x 132.27399pt.
+) (chapters/review-requirements.tex
 
-(chapters/track-requirements.tex
+LaTeX Warning: Citation `perforce_2024' on page 1 undefined on input line 13.
 
-) (chapters/decompose-requirements.tex
+
 
 [1{/Users/nof/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/p
 dftex.map}
 
 
-]) (chapters/prioritize-requirements.tex)
-Underfull \hbox (badness 3838) in paragraph at lines 23--47
+ <./images/requirement-tracking.png>]
+<images/review-mode-view.png, id=13, 847.165pt x 338.26375pt>
+File: images/review-mode-view.png Graphic file (type png)
+<use images/review-mode-view.png>
+Package pdftex.def Info: images/review-mode-view.png  used on input line 18.
+(pdftex.def)             Requested size: 252.0pt x 100.61794pt.
+
+
+LaTeX Warning: Citation `perforce_2024' on page 2 undefined on input line 33.
+
+<images/review-notes.png, id=14, 834.11626pt x 362.35374pt>
+File: images/review-notes.png Graphic file (type png)
+<use images/review-notes.png>
+Package pdftex.def Info: images/review-notes.png  used on input line 38.
+(pdftex.def)             Requested size: 252.0pt x 109.46997pt.
+
+LaTeX Warning: Citation `perforce_2024' on page 2 undefined on input line 50.
+
+<images/email-feedback.png, id=15, 1008.76875pt x 412.54124pt>
+File: images/email-feedback.png Graphic file (type png)
+<use images/email-feedback.png>
+Package pdftex.def Info: images/email-feedback.png  used on input line 54.
+(pdftex.def)             Requested size: 252.0pt x 103.05322pt.
+
+LaTeX Warning: Citation `perforce_2024' on page 2 undefined on input line 67.
+
+<images/edit-requirements.png, id=16, 930.47626pt x 326.21875pt>
+File: images/edit-requirements.png Graphic file (type png)
+<use images/edit-requirements.png>
+Package pdftex.def Info: images/edit-requirements.png  used on input line 71.
+(pdftex.def)             Requested size: 252.0pt x 88.34903pt.
+) (chapters/decompose-requirements.tex
+
+
+
+[2 <./images/review-mode-view.png> <./images/review-notes.png> <./images/email-
+feedback.png> <./images/edit-requirements.png>])
+(chapters/prioritize-requirements.tex
+<images/prioritize-example.png, id=24, 1963.335pt x 113.42375pt>
+File: images/prioritize-example.png Graphic file (type png)
+<use images/prioritize-example.png>
+Package pdftex.def Info: images/prioritize-example.png  used on input line 32.
+(pdftex.def)             Requested size: 252.0pt x 14.55695pt.
+)
+Underfull \hbox (badness 3838) in paragraph at lines 27--41
  \OT1/ptm/m/it/10 f) Con-tin-u-ous Re-fine-ment: [][] \OT1/ptm/m/n/10 As projec
 t re-quire-ments
  []
 
+(chapters/advantages.tex
 
 
+LaTeX Warning: Citation `michele_zamparelli_2006' on page 3 undefined on input 
+line 8.
 
 
-[2]
+LaTeX Warning: Citation `youngki_hong__2010' on page 3 undefined on input line 
+32.
+
+
+LaTeX Warning: Citation `bright_ascention_2024' on page 3 undefined on input li
+ne 35.
+
+
+LaTeX Warning: Citation `helix_alm_review' on page 3 undefined on input line 35
+.
+
+) (chapters/limitations.tex
+
+LaTeX Warning: Citation `lydia_y__chen_2019' on page 3 undefined on input line 
+6.
+
+
+LaTeX Warning: Citation `the_submission_infrastructure' on page 3 undefined on 
+input line 9.
+
+
+LaTeX Warning: Citation `christian_glaschke__2015' on page 3 undefined on input
+ line 13.
+
+)
+
+[3 <./images/prioritize-example.png>]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
-7.
+1.
 
 (/Users/nof/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/
 ot1pcr.fd
@@ -372,55 +475,53 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
 
-LaTeX Warning: Citation `b7' on page 3 undefined on input line 146.
+
+[4]
+
+LaTeX Warning: Citation `b7' on page 5 undefined on input line 140.
 
 
-LaTeX Warning: Reference `fig' on page 3 undefined on input line 182.
+LaTeX Warning: Reference `fig:fig' on page 5 undefined on input line 176.
 
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-07.
+01.
 
 (/Users/nof/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/
 omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 207.
-
-
-[3] (chapters/references.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
-[]\OT1/ptm/m/n/8 Evangelos, Markopou-los., Geor-gios, Alex-opou-los., Nikolitsa
-,
- []
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 201.
 
 
 
-chapters/references.tex:25: Undefined control sequence.
-l.25     Available: \url
-                        {https://www.getapp.com}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-chapters/references.tex:31: Undefined control sequence.
-l.31     Available: \url
-                        {https://a2is.com/catalog/requirements-management-so...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Citation `b1' on page 5 undefined on input line 214.
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 29--33
-[]\OT1/ptm/m/n/8 A2IS, "He-lix RM Re-quire-ments Man-age-ment Fea-tures." Avail
--
- []
+LaTeX Warning: Citation `b2' on page 5 undefined on input line 215.
 
-)
+
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 216.
+
+
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 216.
+
+
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 216.
+
+
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 217.
+
+
+LaTeX Warning: Citation `b4' on page 5 undefined on input line 225.
+
+
+LaTeX Warning: Citation `b5' on page 5 undefined on input line 226.
+
+
+LaTeX Warning: Citation `b6' on page 5 undefined on input line 231.
+
+No file helix-rm_report.bbl.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -434,7 +535,9 @@ Before submitting the final camera ready copy, remember to:
 
 
 
-[4] (helix-rm_report.aux)
+[5]
+(/Users/nof/Documents/Nuno/Mestrado/ERMS/FEUP-ERMS-GW2/auxil/helix-rm_report.au
+x)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
@@ -443,15 +546,18 @@ L3 programming layer <2024-11-02>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 4311 strings out of 473682
- 69873 string characters out of 5716348
- 476718 words of memory out of 5000000
- 27324 multiletter control sequences out of 15000+600000
- 603169 words of font info for 121 fonts, out of 8000000 for 9000
+ 4408 strings out of 473682
+ 73254 string characters out of 5716348
+ 473964 words of memory out of 5000000
+ 27419 multiletter control sequences out of 15000+600000
+ 601583 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,592b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,613b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.e
 nc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/typ
@@ -467,9 +573,9 @@ rier/ucrr8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1
 l/fonts/type1/urw/times/utmr8a.pfb></Library/Application Support/MiKTeX/texmfs/
 install/fonts/type1/urw/times/utmri8a.pfb>
 Output written on /Users/nof/Documents/Nuno/Mestrado/ERMS/FEUP-ERMS-GW2/out/hel
-ix-rm_report.pdf (4 pages, 147387 bytes).
+ix-rm_report.pdf (5 pages, 3528854 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
