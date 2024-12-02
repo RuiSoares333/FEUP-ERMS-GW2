@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.11.29)  2 DEC 2024 15:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.11.29)  2 DEC 2024 16:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -119,12 +119,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 )
 ** ATTENTION: Overriding command lockouts (line 2).
 
-(/Users/nof/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cite/ci
-te.sty
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
-)
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.s
 ty
 Package: amsmath 2024/11/05 v2.17t AMS math features
@@ -212,6 +206,12 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+(/Users/nof/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cite/ci
+te.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
 (/Users/nof/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorit
 hms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
@@ -426,100 +426,76 @@ File: images/prioritize-example.png Graphic file (type png)
 <use images/prioritize-example.png>
 Package pdftex.def Info: images/prioritize-example.png  used on input line 32.
 (pdftex.def)             Requested size: 252.0pt x 14.55695pt.
-)
-Underfull \hbox (badness 3838) in paragraph at lines 27--41
+) (chapters/jira-integration.tex
+Underfull \hbox (badness 3838) in paragraph at lines 27--1
  \OT1/ptm/m/it/10 f) Con-tin-u-ous Re-fine-ment: [][] \OT1/ptm/m/n/10 As projec
 t re-quire-ments
  []
 
-(chapters/advantages.tex
 
+
+) (chapters/advantages.tex
 
 LaTeX Warning: Citation `michele_zamparelli_2006' on page 3 undefined on input 
 line 8.
 
 
-LaTeX Warning: Citation `youngki_hong__2010' on page 3 undefined on input line 
+
+[3 <./images/prioritize-example.png>]
+
+LaTeX Warning: Citation `youngki_hong__2010' on page 4 undefined on input line 
 32.
 
 
-LaTeX Warning: Citation `bright_ascention_2024' on page 3 undefined on input li
+LaTeX Warning: Citation `bright_ascention_2024' on page 4 undefined on input li
 ne 35.
 
 
-LaTeX Warning: Citation `helix_alm_review' on page 3 undefined on input line 35
+LaTeX Warning: Citation `helix_alm_review' on page 4 undefined on input line 35
 .
 
 ) (chapters/limitations.tex
 
-LaTeX Warning: Citation `lydia_y__chen_2019' on page 3 undefined on input line 
+LaTeX Warning: Citation `lydia_y__chen_2019' on page 4 undefined on input line 
 6.
 
 
-LaTeX Warning: Citation `the_submission_infrastructure' on page 3 undefined on 
+LaTeX Warning: Citation `the_submission_infrastructure' on page 4 undefined on 
 input line 9.
 
 
-LaTeX Warning: Citation `christian_glaschke__2015' on page 3 undefined on input
+LaTeX Warning: Citation `christian_glaschke__2015' on page 4 undefined on input
  line 13.
 
 )
 
-[3 <./images/prioritize-example.png>]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
-1.
-
-(/Users/nof/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/
-ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
+LaTeX Warning: Citation `b1' on page 4 undefined on input line 64.
 
 
-
-[4]
-
-LaTeX Warning: Citation `b7' on page 5 undefined on input line 140.
+LaTeX Warning: Citation `b2' on page 4 undefined on input line 65.
 
 
-LaTeX Warning: Reference `fig:fig' on page 5 undefined on input line 176.
+LaTeX Warning: Citation `b3' on page 4 undefined on input line 66.
 
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-01.
 
-(/Users/nof/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/
-omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 201.
+LaTeX Warning: Citation `b3' on page 4 undefined on input line 66.
+
+
+LaTeX Warning: Citation `b3' on page 4 undefined on input line 66.
+
+
+LaTeX Warning: Citation `b3' on page 4 undefined on input line 67.
 
 
 
-LaTeX Warning: Citation `b1' on page 5 undefined on input line 214.
+
+LaTeX Warning: Citation `b4' on page 4 undefined on input line 77.
 
 
-LaTeX Warning: Citation `b2' on page 5 undefined on input line 215.
+LaTeX Warning: Citation `b5' on page 4 undefined on input line 78.
 
 
-LaTeX Warning: Citation `b3' on page 5 undefined on input line 216.
-
-
-LaTeX Warning: Citation `b3' on page 5 undefined on input line 216.
-
-
-LaTeX Warning: Citation `b3' on page 5 undefined on input line 216.
-
-
-LaTeX Warning: Citation `b3' on page 5 undefined on input line 217.
-
-
-LaTeX Warning: Citation `b4' on page 5 undefined on input line 225.
-
-
-LaTeX Warning: Citation `b5' on page 5 undefined on input line 226.
-
-
-LaTeX Warning: Citation `b6' on page 5 undefined on input line 231.
+LaTeX Warning: Citation `b6' on page 4 undefined on input line 83.
 
 No file helix-rm_report.bbl.
 
@@ -535,7 +511,7 @@ Before submitting the final camera ready copy, remember to:
 
 
 
-[5]
+[4]
 (/Users/nof/Documents/Nuno/Mestrado/ERMS/FEUP-ERMS-GW2/auxil/helix-rm_report.au
 x)
  ***********
@@ -546,36 +522,27 @@ L3 programming layer <2024-11-02>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 4408 strings out of 473682
- 73254 string characters out of 5716348
- 473964 words of memory out of 5000000
- 27419 multiletter control sequences out of 15000+600000
- 601583 words of font info for 115 fonts, out of 8000000 for 9000
+ 4345 strings out of 473682
+ 72389 string characters out of 5716348
+ 474011 words of memory out of 5000000
+ 27364 multiletter control sequences out of 15000+600000
+ 597112 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,613b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,291b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.e
 nc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/ins
-tall/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKT
-eX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application
- Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Libr
-ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cm
-sy7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/cou
-rier/ucrr8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1
-/urw/times/utmb8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts
-/type1/urw/times/utmbi8a.pfb></Library/Application Support/MiKTeX/texmfs/instal
-l/fonts/type1/urw/times/utmr8a.pfb></Library/Application Support/MiKTeX/texmfs/
-install/fonts/type1/urw/times/utmri8a.pfb>
+e1/public/amsfonts/cm/cmsy7.pfb></Library/Application Support/MiKTeX/texmfs/ins
+tall/fonts/type1/urw/times/utmb8a.pfb></Library/Application Support/MiKTeX/texm
+fs/install/fonts/type1/urw/times/utmbi8a.pfb></Library/Application Support/MiKT
+eX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Library/Application Suppor
+t/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
 Output written on /Users/nof/Documents/Nuno/Mestrado/ERMS/FEUP-ERMS-GW2/out/hel
-ix-rm_report.pdf (5 pages, 3528854 bytes).
+ix-rm_report.pdf (4 pages, 3473679 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
